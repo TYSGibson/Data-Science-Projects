@@ -1,5 +1,5 @@
 # Finding the Best Choclate Bar (EDA Project)
-My first data science project! A simple EDA project that I have completed by breaking down and analyzing data utilizing several Python modules (Pandas, numpy, seaborn, matplotlib etc).
+My first data science project! A simple EDA project that I have completed by breaking down and analyzing data utilizing several Python modules (Pandas, numpy, seaborn, matplotlib etc). More to come!
 
 ## 📖 Background
 You work at a specialty foods import company that wants to expand into gourmet chocolate bars. Your boss needs your team to research this market to inform your initial approach to potential suppliers.
